@@ -5,6 +5,8 @@ Redis :- Redis is a powerful in-memory data store often used as a database, cach
 When combined, Redis and Socket.IO can provide a scalable and distributed solution for real-time communication.
 
 ![broadcasting-redis-dark](https://github.com/coderxplr/socketRedis-POC/assets/146474827/37e91bc2-8007-4303-a1aa-e88b356286a7)
+
+
 source :- https://socket.io/docs/v4/adapter/
 
 
